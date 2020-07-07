@@ -1,6 +1,6 @@
 # Last-Letter
 
-Replicates a game called first letter, last letter. Given a text file of random words, the program generates a sequence with the highest possible number of words where the subsequent name starts with the last letter of the previous word. 
+Given a text file of random words, the program generates a sequence with the highest possible number of words where the subsequent name starts with the last letter of the previous word. 
 
 ## Getting Started
 
